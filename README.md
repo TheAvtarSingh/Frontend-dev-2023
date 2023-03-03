@@ -494,6 +494,7 @@ setClass("");
 
 ![image](https://user-images.githubusercontent.com/88712571/222775878-96a81890-26da-4758-9345-ad48e1254b19.png)
 
+# Admin Section
 
 ## Creation of Login Page of Admin 
 
