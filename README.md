@@ -5,20 +5,7 @@
 ### Create React Function Return using `rfc` and make a form
 
 <code>
-<section className="vh-80">
-      <div className="d-flex flex-row justify-content-around">
-        {/* cont 1 */}
-        <div className="m-0 p-0">
-          <img
-            src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
-            className="image-fluid"
-            alt="sample"
-          />
-        </div>
-
-        {/* Cont 2 */}
-        {console.log("admin", admin)}
-        <form className="mt-5 m-5" method="post" onSubmit={loginAdmin}>
+<form className="mt-5 m-5" method="post" onSubmit={loginAdmin}>
           <h1 className="mb-5">Enter Your Details </h1>
           <div>
             <label htmlFor="adminEmail" className="form-label">
@@ -64,8 +51,6 @@
             Sign in
           </button>
         </form>
-      </div>
-    </section>
 
 </code>
 
