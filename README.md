@@ -4,7 +4,7 @@
 
 ### Create React Function Return using `rfc` and make a form
 
-<code>
+```
 <form className="mt-5 m-5" method="post" onSubmit={loginAdmin}>
           <h1 className="mb-5">Enter Your Details </h1>
           <div>
@@ -52,6 +52,6 @@
           </button>
         </form>
 
-</code>
+```
 
 ![image](https://user-images.githubusercontent.com/88712571/222626881-08b48138-1525-4f1e-a879-51a59858ca32.png)
