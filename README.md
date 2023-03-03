@@ -2,6 +2,23 @@
 
 ## Creation of Student Form
 
+## Add The Cors Method If Any Error Persist in index.js
+
+```
+const corsOptions ={
+   origin:'*', 
+   credentials:true,            
+   optionSuccessStatus:200,
+}
+```
+## and
+
+`app.use(cors(corsOptions))`
+
+![image](https://user-images.githubusercontent.com/88712571/222780091-40d85a0a-6d6f-4e97-a192-8ed6c11a9713.png)
+
+
+
 ### Create React Function Return using `rfc` and make a form
 
 #### Note the Method="post" and onSubmit in form tag
