@@ -4,6 +4,8 @@
 
 ### Create React Function Return using `rfc` and make a form
 
+#### Note the Method="post" and onSubmit in form tag
+
 ```
 <form className="mt-5 m-5" method="post" onSubmit={loginAdmin}>
           <h1 className="mb-5">Enter Your Details </h1>
